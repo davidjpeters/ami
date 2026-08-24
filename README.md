@@ -4,7 +4,10 @@ A small suite of commands that piggyback off the staple `whoami` command to retr
 ### whatami
 Command: `whatami`
 Outputs:
+- Operating System
+- Kernel
 - Model Name
+- Uptime
 - Chip
 - Cores
 - Memory
