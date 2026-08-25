@@ -11,3 +11,10 @@ Outputs:
 - Chip
 - Cores
 - Memory
+
+### howami (not implemented)
+Command: `howami`
+Outputs:
+- Memory (total and free)
+- Storage (total and free)
+- Battery (capacity and current charge)
